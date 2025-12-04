@@ -14,37 +14,50 @@ export function Hero({ date, totalProcessed, totalPassed, avgScore }: HeroProps)
   const passRate = ((totalPassed / totalProcessed) * 100).toFixed(0);
 
   return (
-    <div className="relative overflow-hidden bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 text-white">
-      {/* Grid Background */}
-      <div className="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PHBhdHRlcm4gaWQ9ImdyaWQiIHdpZHRoPSI2MCIgaGVpZ2h0PSI2MCIgcGF0dGVyblVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHBhdGggZD0iTSAxMCAwIEwgMCAwIDAgMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0icmdiYSgyNTUsMjU1LDI1NSwwLjAzKSIgc3Ryb2tlLXdpZHRoPSIxIi8+PC9wYXR0ZXJuPjwvZGVmcz48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2dyaWQpIi8+PC9zdmc+')] opacity-40" />
+    <div className="relative overflow-hidden bg-black text-white min-h-[80vh] flex items-center">
+      {/* Unsplash Background Image - Premium Electric Car */}
+      <div className="absolute inset-0">
+        <img
+          src="https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=2400&q=80"
+          alt="Premium Electric Vehicle"
+          className="h-full w-full object-cover object-center"
+        />
+        {/* Dark gradient overlay for text readability */}
+        <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/50 to-black/80" />
+        {/* Vignette effect */}
+        <div className="absolute inset-0 bg-gradient-to-r from-black/40 via-transparent to-black/40" />
+      </div>
 
-      {/* Gradient Orbs */}
-      <div className="absolute top-0 left-1/4 w-96 h-96 bg-blue-500/20 rounded-full blur-3xl" />
-      <div className="absolute bottom-0 right-1/4 w-96 h-96 bg-purple-500/20 rounded-full blur-3xl" />
+      {/* Subtle animated gradient orbs */}
+      <div className="absolute top-0 left-1/4 w-96 h-96 bg-blue-600/10 rounded-full blur-3xl animate-pulse" />
+      <div className="absolute bottom-0 right-1/4 w-96 h-96 bg-purple-600/10 rounded-full blur-3xl animate-pulse" style={{ animationDelay: '1s' }} />
 
-      <div className="relative mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:px-8">
-        {/* Logo */}
+      <div className="relative mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:px-8 w-full">
+        {/* Premium Logo Replacement - Minimalist Line */}
         <motion.div
-          initial={{ scale: 0.8, opacity: 0 }}
-          animate={{ scale: 1, opacity: 1 }}
-          transition={{ duration: 0.5 }}
-          className="mb-8 flex justify-center"
+          initial={{ scaleX: 0, opacity: 0 }}
+          animate={{ scaleX: 1, opacity: 1 }}
+          transition={{ duration: 0.8, ease: "easeOut" }}
+          className="mb-12 flex justify-center"
         >
-          <div className="text-7xl sm:text-8xl">🚗</div>
+          <div className="h-1 w-24 bg-gradient-to-r from-transparent via-white to-transparent" />
         </motion.div>
 
         {/* Title */}
         <motion.div
           initial={{ y: 20, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
-          transition={{ duration: 0.5, delay: 0.1 }}
+          transition={{ duration: 0.8, delay: 0.2 }}
           className="text-center"
         >
-          <h1 className="text-5xl font-bold tracking-tight sm:text-7xl bg-clip-text text-transparent bg-gradient-to-r from-white via-blue-100 to-purple-200">
+          <h1 className="text-6xl font-black tracking-tighter sm:text-8xl lg:text-9xl bg-clip-text text-transparent bg-gradient-to-r from-white via-gray-100 to-white drop-shadow-2xl">
             达式车评
           </h1>
-          <p className="mt-6 text-lg leading-8 text-gray-300 sm:text-xl">
-            AI-Powered Automotive Journalism in DADA Style
+          <p className="mt-8 text-xl leading-relaxed text-gray-200 sm:text-2xl font-light tracking-wide max-w-3xl mx-auto">
+            AI-Powered Automotive Journalism
+          </p>
+          <p className="mt-2 text-sm text-gray-400 uppercase tracking-widest font-medium">
+            DADA STYLE
           </p>
         </motion.div>
 
@@ -52,12 +65,12 @@ export function Hero({ date, totalProcessed, totalPassed, avgScore }: HeroProps)
         <motion.div
           initial={{ y: 20, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
-          transition={{ duration: 0.5, delay: 0.2 }}
-          className="mt-10 flex justify-center"
+          transition={{ duration: 0.8, delay: 0.4 }}
+          className="mt-12 flex justify-center"
         >
-          <div className="inline-flex items-center gap-2 rounded-full bg-white/10 px-6 py-3 text-sm font-medium backdrop-blur-xl border border-white/20">
-            <Calendar className="h-4 w-4" />
-            <span>{new Date(date).toLocaleDateString('zh-CN', {
+          <div className="inline-flex items-center gap-3 rounded-full bg-white/5 px-8 py-4 text-sm font-light backdrop-blur-2xl border border-white/10 hover:bg-white/10 transition-all duration-300">
+            <Calendar className="h-5 w-5 text-white/60" />
+            <span className="text-white/90 tracking-wide">{new Date(date).toLocaleDateString('zh-CN', {
               year: 'numeric',
               month: 'long',
               day: 'numeric'
@@ -65,56 +78,70 @@ export function Hero({ date, totalProcessed, totalPassed, avgScore }: HeroProps)
           </div>
         </motion.div>
 
-        {/* Quick Stats */}
+        {/* Quick Stats - Minimalist Glass Morphism */}
         <motion.div
-          initial={{ y: 20, opacity: 0 }}
+          initial={{ y: 30, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
-          transition={{ duration: 0.5, delay: 0.3 }}
-          className="mt-12 grid grid-cols-1 gap-4 sm:grid-cols-3 max-w-3xl mx-auto"
+          transition={{ duration: 0.8, delay: 0.6 }}
+          className="mt-16 grid grid-cols-1 gap-6 sm:grid-cols-3 max-w-4xl mx-auto"
         >
-          {/* Stat 1 */}
-          <div className="flex items-center justify-center gap-3 rounded-2xl bg-white/5 px-6 py-4 backdrop-blur-xl border border-white/10 hover:bg-white/10 transition-colors">
-            <TrendingUp className="h-5 w-5 text-blue-400" />
-            <div>
-              <div className="text-2xl font-bold">{totalPassed}/{totalProcessed}</div>
-              <div className="text-xs text-gray-400">Passed</div>
+          {/* Stat 1 - Passed Articles */}
+          <motion.div
+            whileHover={{ y: -4, scale: 1.02 }}
+            className="group rounded-3xl bg-gradient-to-br from-white/10 to-white/5 px-8 py-6 backdrop-blur-2xl border border-white/10 hover:border-white/20 transition-all duration-300"
+          >
+            <div className="flex items-center justify-between mb-3">
+              <TrendingUp className="h-6 w-6 text-blue-400/80 group-hover:text-blue-400 transition-colors" />
+              <div className="text-xs text-gray-400 uppercase tracking-widest font-medium">Passed</div>
             </div>
-          </div>
+            <div className="text-4xl font-bold text-white">{totalPassed}<span className="text-2xl text-gray-400 font-light">/{totalProcessed}</span></div>
+          </motion.div>
 
-          {/* Stat 2 */}
-          <div className="flex items-center justify-center gap-3 rounded-2xl bg-white/5 px-6 py-4 backdrop-blur-xl border border-white/10 hover:bg-white/10 transition-colors">
-            <Zap className="h-5 w-5 text-yellow-400" />
-            <div>
-              <div className="text-2xl font-bold">{passRate}%</div>
-              <div className="text-xs text-gray-400">Pass Rate</div>
+          {/* Stat 2 - Pass Rate */}
+          <motion.div
+            whileHover={{ y: -4, scale: 1.02 }}
+            className="group rounded-3xl bg-gradient-to-br from-white/10 to-white/5 px-8 py-6 backdrop-blur-2xl border border-white/10 hover:border-white/20 transition-all duration-300"
+          >
+            <div className="flex items-center justify-between mb-3">
+              <Zap className="h-6 w-6 text-yellow-400/80 group-hover:text-yellow-400 transition-colors" />
+              <div className="text-xs text-gray-400 uppercase tracking-widest font-medium">Rate</div>
             </div>
-          </div>
+            <div className="text-4xl font-bold text-white">{passRate}<span className="text-2xl text-gray-400 font-light">%</span></div>
+          </motion.div>
 
-          {/* Stat 3 */}
-          <div className="flex items-center justify-center gap-3 rounded-2xl bg-white/5 px-6 py-4 backdrop-blur-xl border border-white/10 hover:bg-white/10 transition-colors">
-            <div className="h-5 w-5 flex items-center justify-center text-purple-400 font-bold">A</div>
-            <div>
-              <div className="text-2xl font-bold">{avgScore}</div>
-              <div className="text-xs text-gray-400">Avg Score</div>
+          {/* Stat 3 - Average Score */}
+          <motion.div
+            whileHover={{ y: -4, scale: 1.02 }}
+            className="group rounded-3xl bg-gradient-to-br from-white/10 to-white/5 px-8 py-6 backdrop-blur-2xl border border-white/10 hover:border-white/20 transition-all duration-300"
+          >
+            <div className="flex items-center justify-between mb-3">
+              <div className="h-6 w-6 flex items-center justify-center text-purple-400/80 group-hover:text-purple-400 font-bold text-xl transition-colors">A</div>
+              <div className="text-xs text-gray-400 uppercase tracking-widest font-medium">Score</div>
             </div>
-          </div>
+            <div className="text-4xl font-bold text-white">{avgScore}<span className="text-2xl text-gray-400 font-light">/100</span></div>
+          </motion.div>
         </motion.div>
 
-        {/* Scroll Indicator */}
+        {/* Scroll Indicator - Elegant Mouse */}
         <motion.div
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
-          transition={{ duration: 0.5, delay: 0.5 }}
-          className="mt-16 flex justify-center"
+          transition={{ duration: 0.8, delay: 0.8 }}
+          className="mt-20 flex justify-center"
         >
           <motion.div
-            animate={{ y: [0, 8, 0] }}
-            transition={{ duration: 1.5, repeat: Infinity }}
-            className="text-gray-500"
+            animate={{ y: [0, 10, 0] }}
+            transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
+            className="flex flex-col items-center gap-2"
           >
-            <svg className="h-6 w-6" fill="none" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" viewBox="0 0 24 24" stroke="currentColor">
-              <path d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
-            </svg>
+            <div className="w-6 h-10 rounded-full border-2 border-white/30 flex items-start justify-center p-2">
+              <motion.div
+                animate={{ y: [0, 12, 0], opacity: [1, 0.3, 1] }}
+                transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
+                className="w-1.5 h-1.5 rounded-full bg-white/60"
+              />
+            </div>
+            <span className="text-xs text-white/40 uppercase tracking-widest font-light">Scroll</span>
           </motion.div>
         </motion.div>
       </div>
