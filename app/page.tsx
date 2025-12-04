@@ -2,15 +2,13 @@ import { Hero } from './components/Hero';
 import { StatsBoard } from './components/StatsBoard';
 import { ArticleCard } from './components/ArticleCard';
 import type { DailyDigest } from '@/lib/types';
+import sampleData from '@/public/data/sample.json';
 
 // This would come from your Python script's JSON output
 async function getDailyDigest(): Promise<DailyDigest> {
   // In production, this would read from /public/data/YYYY-MM-DD.json
-  // For now, we'll use the sample data
-  const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'}/data/sample.json`, {
-    cache: 'no-store'
-  });
-  return res.json();
+  // For now, we'll use the sample data imported directly
+  return sampleData as DailyDigest;
 }
 
 export default async function Home() {
