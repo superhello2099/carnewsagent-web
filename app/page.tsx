@@ -2,13 +2,14 @@ import { Hero } from './components/Hero';
 import { StatsBoard } from './components/StatsBoard';
 import { ArticleCard } from './components/ArticleCard';
 import type { DailyDigest } from '@/lib/types';
-import sampleData from '@/public/data/sample.json';
+import todayData from '@/public/data/2025-12-06.json';
 
-// This would come from your Python script's JSON output
+// This reads today's real data from Python agent output
 async function getDailyDigest(): Promise<DailyDigest> {
-  // In production, this would read from /public/data/YYYY-MM-DD.json
-  // For now, we'll use the sample data imported directly
-  return sampleData as DailyDigest;
+  // Now using real data from Python agent!
+  // Generated: 2025-12-06 03:45:38
+  // Articles: 3 passed out of 10 processed
+  return todayData as DailyDigest;
 }
 
 export default async function Home() {

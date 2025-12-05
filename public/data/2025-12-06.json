@@ -1,0 +1,81 @@
+{
+  "date": "2025-12-06",
+  "summary": {
+    "total_processed": 10,
+    "total_passed": 3,
+    "cost": 0.018884,
+    "duration": 60.6,
+    "timestamp": "2025-12-06 03:45:38"
+  },
+  "passing_articles": [
+    {
+      "success": true,
+      "original_english": {
+        "title": "BYD tried crushing its $180K luxury SUV with a 2-ton tree",
+        "summary": "BYD conducted an extreme crash test by dropping a 2-ton tree trunk onto the roof of its $180,000 Yangwang U8 luxury SUV. The vehicle's structure remained intact, demonstrating the strength of its hydraulic body control system.",
+        "link": "https://news.google.com/rss/articles/BYD-test",
+        "source_name": "Electrek",
+        "published": "2025-12-06",
+        "brand_name": "BYD"
+      },
+      "rewrite": {
+        "title": "比亚迪拿2吨大树砸180万豪车，结果就这？",
+        "content": "我是真看不懂，比亚迪为了证明自家仰望U8的车顶强度，直接整了个狠活：用一台起重机吊起一根重达2吨的树干，然后让它自由落体，精准砸在U8的车顶上。这操作，你说是不是有点过于硬核了？但让我觉得迷惑的是，看完整个视频，那辆售价高达180万人民币的仰望U8，车顶除了留下一些轻微的划痕和凹陷，整体结构居然完好无损，天窗都没碎。这强度，恐怖如斯。"
+      },
+      "sao": "虽然这测试tm对日常用车没啥参考价值，但敢拿2吨大树砸180万的车顶，这波确实牛逼。说到底，比亚迪就是想告诉你：老子造的车，硬！",
+      "eval": {
+        "score": 91,
+        "grade": "A+",
+        "passed": true,
+        "feedback": ["Excellent critique", "Strong DADA voice"]
+      },
+      "duration": 6.8
+    },
+    {
+      "success": true,
+      "original_english": {
+        "title": "Toyota Debuts 3 High-Performance Models, Including Electric LFA Concept",
+        "summary": "Toyota unveiled three high-performance concept vehicles: an all-electric LFA concept, the GR GT3 concept for racing, and the hydrogen-powered GR Yaris H2. These showcase Toyota's commitment across multiple powertrain technologies.",
+        "link": "https://news.google.com/rss/articles/Toyota-concepts",
+        "source_name": "Autoblog",
+        "published": "2025-12-06",
+        "brand_name": "Toyota"
+      },
+      "rewrite": {
+        "title": "丰田一口气甩出三款性能猛兽，纯电LFA概念车能打吗？",
+        "content": "丰田最近搞了个大新闻，一口气发布了三款高性能概念车，其中还包括一台纯电的LFA概念车。说实话，看到这个消息，我的第一反应是：丰田这是终于睡醒了，要在性能领域跟新势力们掰掰手腕了？先说说最炸裂的纯电LFA概念车。LFA是干嘛的？是丰田当年用碳纤维和V10发动机堆出来的东瀛神车，是无数JDM粉丝心中的图腾。现在要把它电动化，这操作我是真看不懂。虽然官方说它用了固态电池，性能恐怖如斯，但没了那台天籁般的V10声浪，LFA的灵魂还剩多少，要打一个大大的问号。"
+      },
+      "sao": "虽然LFA电动化tm是在挑战信仰，虽然氢燃料Yaris不知道卖给谁。但丰田这波秀肌肉确实牛逼，至少态度摆出来了。",
+      "eval": {
+        "score": 91,
+        "grade": "A+",
+        "passed": true,
+        "feedback": ["Sharp analysis", "Cultural understanding"]
+      },
+      "duration": 5.9
+    },
+    {
+      "success": true,
+      "original_english": {
+        "title": "'My Favorite Car From China': Xiaomi SU7 Ultra Praised by Foreign Media",
+        "summary": "InsideEVs declared the Xiaomi SU7 Ultra as their favorite Chinese car, highlighting its dual-motor AWD, over 1000 horsepower, and sub-2-second 0-60 times. Questions remain about long-term reliability and daily drivability.",
+        "link": "https://news.google.com/rss/articles/Xiaomi-SU7",
+        "source_name": "InsideEVs",
+        "published": "2025-12-06",
+        "brand_name": "Xiaomi"
+      },
+      "rewrite": {
+        "title": "小米SU7 Ultra成外媒最爱中国车？这波吹捧到底几分真？",
+        "content": "最近看到外媒InsideEVs的一篇报道，直接把小米SU7 Ultra捧成了我最喜欢的中国车。说实话，这评价高得让我有点意外。小米造车才多久？第一款车就能让见多识广的老外车评人惊艳，这操作我是真有点看不懂。但话说回来，SU7 Ultra的纸面数据确实恐怖如斯。双电机四驱，超过1000匹的马力，零百加速冲进2秒俱乐部，这性能放在全球都是顶级水准。问题是，一辆车的好坏，难道只看加速吗？底盘调校、日常驾驶质感、长期可靠性，这些才是真正考验功力的地方。"
+      },
+      "sao": "虽然外媒吹得有点过，但SU7 Ultra这数据tm确实牛逼。问题是，车不是光看零百的，底盘和可靠性才是真功夫。小米这波能打几分？还得让时间说话。",
+      "eval": {
+        "score": 87,
+        "grade": "A",
+        "passed": true,
+        "feedback": ["Balanced perspective", "Good skepticism"]
+      },
+      "duration": 4.2
+    }
+  ]
+}
