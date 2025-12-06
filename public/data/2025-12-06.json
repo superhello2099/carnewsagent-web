@@ -11,71 +11,252 @@
     {
       "success": true,
       "original_english": {
-        "title": "BYD tried crushing its $180K luxury SUV with a 2-ton tree",
-        "summary": "BYD conducted an extreme crash test by dropping a 2-ton tree trunk onto the roof of its $180,000 Yangwang U8 luxury SUV. The vehicle's structure remained intact, demonstrating the strength of its hydraulic body control system.",
+        "title": "[English Title for: 比亚迪拿2吨大树砸180万豪车，结果就这？]",
+        "summary": "",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYTV2cFhHU2JsaEZfWjF6SnBUaUd4UFctQmo3QVZXN2pFcmRrcGJoeXVzVFpsMHZwejFIMFNVSHBBNkVvWnJRdnFib0M5bzBlcnE5ODlyQjJ5cG1mSUJPVTlJcW05d2plNXFQUjlJRDhGWUstYzJhdGVNNEt2VTVHUDJWd2d4OGZGVF91ZlA5V3NvZw?oc=5",
         "source_name": "Electrek",
         "published": "2025-12-06",
-        "brand_name": "BYD"
+        "brand_name": "Unknown"
       },
       "rewrite": {
         "title": "比亚迪拿2吨大树砸180万豪车，结果就这？",
-        "content": "我是真看不懂，比亚迪为了证明自家仰望U8的车顶强度，直接整了个狠活：用一台起重机吊起一根重达2吨的树干，然后让它自由落体，精准砸在U8的车顶上。这操作，你说是不是有点过于硬核了？但让我觉得迷惑的是，看完整个视频，那辆售价高达180万人民币的仰望U8，车顶除了留下一些轻微的划痕和凹陷，整体结构居然完好无损，天窗都没碎。这强度，恐怖如斯。"
+        "content": "我是真看不懂，比亚迪为了证明自家仰望U8的车顶强度，直接整了个狠活：用一台起重机吊起一根重达2吨的树干，然后让它自由落体，精准砸在U8的车顶上。这操作，你说是不是有点过于硬核了？\n\n但让我觉得迷惑的是，看完整个视频，那辆售价高达180万人民币的仰望U8，车顶除了留下一些轻微的划痕和凹陷，整体结构居然完好无损，天窗都没碎。这强度，恐怖如斯。比亚迪想证明的“云辇-P”液压车身控制系统和笼式车身结构，看来确实有点东西。\n\n问题是，这种极限工况测试，对普通消费者来说到底有多大参考价值？我们日常用车，被2吨大树砸中的概率有多大？要打一个大大的问号。说到底，车企搞这种营销，无非是想强调安全冗余。这有问题吗？没有问题。但我觉得，与其秀这种“防砸”能力，不如多讲讲日常碰撞安全、电池包防护这些更贴近实际的风险。\n\n不过话说回来，敢这么玩，至少说明比亚迪对自家产品的刚性是相当自信。只是这180万的价格，配上这种“硬核”测试，你说能不能真正打动那些追求极致奢华和科技感的顶级买家？恐怕还得看品牌积淀和综合体验。"
       },
       "sao": "虽然这测试tm对日常用车没啥参考价值，但敢拿2吨大树砸180万的车顶，这波确实牛逼。说到底，比亚迪就是想告诉你：老子造的车，硬！",
       "eval": {
         "score": 91,
         "grade": "A+",
         "passed": true,
-        "feedback": ["Excellent critique", "Strong DADA voice"]
+        "feedback": [
+          "Processed successfully"
+        ]
       },
-      "duration": 6.8
+      "duration": 0.0
     },
     {
       "success": true,
       "original_english": {
-        "title": "Toyota Debuts 3 High-Performance Models, Including Electric LFA Concept",
-        "summary": "Toyota unveiled three high-performance concept vehicles: an all-electric LFA concept, the GR GT3 concept for racing, and the hydrogen-powered GR Yaris H2. These showcase Toyota's commitment across multiple powertrain technologies.",
+        "title": "[English Title for: 丰田一口气甩出三款性能猛兽，纯电LFA概念车能打吗？]",
+        "summary": "",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNTRsQ3liMTd5S2FTdEpiZ1Uxem9hN3hDdVJwcmYwVEhRZkdLYUhGUUxwX190WlZIbXZzc0luODRsWWxIa2Y4bWU1LVNEczJxRzNjcUNUSUlFcG5rQnh3NmQxdl95eVZtY21ha3pxc3pUZjF0Qm9BcDFoeWZOV2twVjBlSl90SS1kTjRtZ1RoQlNtTm1iRTZHWDI3azZYVFZ3MG9aYmRSYw?oc=5",
         "source_name": "Autoblog",
         "published": "2025-12-06",
-        "brand_name": "Toyota"
+        "brand_name": "Unknown"
       },
       "rewrite": {
         "title": "丰田一口气甩出三款性能猛兽，纯电LFA概念车能打吗？",
-        "content": "丰田最近搞了个大新闻，一口气发布了三款高性能概念车，其中还包括一台纯电的LFA概念车。说实话，看到这个消息，我的第一反应是：丰田这是终于睡醒了，要在性能领域跟新势力们掰掰手腕了？先说说最炸裂的纯电LFA概念车。LFA是干嘛的？是丰田当年用碳纤维和V10发动机堆出来的东瀛神车，是无数JDM粉丝心中的图腾。现在要把它电动化，这操作我是真看不懂。虽然官方说它用了固态电池，性能恐怖如斯，但没了那台天籁般的V10声浪，LFA的灵魂还剩多少，要打一个大大的问号。"
+        "content": "丰田最近搞了个大新闻，一口气发布了三款高性能概念车，其中还包括一台纯电的LFA概念车。说实话，看到这个消息，我的第一反应是：丰田这是终于睡醒了，要在性能领域跟新势力们掰掰手腕了？\n\n先说说最炸裂的纯电LFA概念车。LFA是干嘛的？是丰田当年用碳纤维和V10发动机堆出来的“东瀛神车”，是无数JDM粉丝心中的图腾。现在要把它电动化，这操作我是真看不懂。虽然官方说它用了固态电池，性能“恐怖如斯”，但没了那台天籁般的V10声浪，LFA的灵魂还剩多少，要打一个大大的问号。情怀这东西，不是零百加速能衡量的。\n\n另外两款，一个是GR GT3概念车，一个是GR Yaris H2概念车（氢燃料）。GR GT3看着是奔着勒芒去的，造型确实凶悍。而氢燃料的GR Yaris，我觉得这波操作确实有点意思，在大家都在卷纯电的时候，丰田还在坚持它的氢能路线。但问题是，氢能源的基础设施建设，在全球范围内都还是个老大难，这车就算量产了，又能卖给谁呢？\n\n说到底，丰田这次秀肌肉，技术储备是展示了，态度也摆出来了。但这三款车，一款是挑战信仰的电动图腾，一款是赛道机器，还有一款是面向未来的氢能试验品。你说它们能不能真正打动现在的性能车市场？我认为，光有概念还远远不够。"
       },
       "sao": "虽然LFA电动化tm是在挑战信仰，虽然氢燃料Yaris不知道卖给谁。但丰田这波秀肌肉确实牛逼，至少态度摆出来了。",
       "eval": {
         "score": 91,
         "grade": "A+",
         "passed": true,
-        "feedback": ["Sharp analysis", "Cultural understanding"]
+        "feedback": [
+          "Processed successfully"
+        ]
       },
-      "duration": 5.9
+      "duration": 0.0
     },
     {
       "success": true,
       "original_english": {
-        "title": "'My Favorite Car From China': Xiaomi SU7 Ultra Praised by Foreign Media",
-        "summary": "InsideEVs declared the Xiaomi SU7 Ultra as their favorite Chinese car, highlighting its dual-motor AWD, over 1000 horsepower, and sub-2-second 0-60 times. Questions remain about long-term reliability and daily drivability.",
+        "title": "[English Title for: 小米SU7 Ultra成外媒最爱中国车？这波吹捧到底几分真？]",
+        "summary": "",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qX0FtX0MxVk90WGNjZVNrZXZEU2V0VzZleElEa0tRcUkwUDh2c0dOS2J1NXFSTEJraHNfLUlzaXhBbzVHZkRSNXlCTFZqdXdSSG1zSEJLcV9aZ3RyOE5QTjFQX1oxRFNLcjRv?oc=5",
         "source_name": "InsideEVs",
         "published": "2025-12-06",
-        "brand_name": "Xiaomi"
+        "brand_name": "Unknown"
       },
       "rewrite": {
         "title": "小米SU7 Ultra成外媒最爱中国车？这波吹捧到底几分真？",
-        "content": "最近看到外媒InsideEVs的一篇报道，直接把小米SU7 Ultra捧成了我最喜欢的中国车。说实话，这评价高得让我有点意外。小米造车才多久？第一款车就能让见多识广的老外车评人惊艳，这操作我是真有点看不懂。但话说回来，SU7 Ultra的纸面数据确实恐怖如斯。双电机四驱，超过1000匹的马力，零百加速冲进2秒俱乐部，这性能放在全球都是顶级水准。问题是，一辆车的好坏，难道只看加速吗？底盘调校、日常驾驶质感、长期可靠性，这些才是真正考验功力的地方。"
+        "content": "最近看到外媒InsideEVs的一篇报道，直接把小米SU7 Ultra捧成了“我最喜欢的中国车”。说实话，这评价高得让我有点意外。小米造车才多久？第一款车就能让见多识广的老外车评人“惊艳”，这操作我是真有点看不懂。\n\n但话说回来，SU7 Ultra的纸面数据确实恐怖如斯。双电机四驱，超过1000匹的马力，零百加速冲进2秒俱乐部，这性能放在全球都是顶级水准。问题是，一辆车的好坏，难道只看加速吗？底盘调校、日常驾驶质感、长期可靠性，这些才是真正考验功力的地方。小米作为一个新玩家，在这些方面到底能拿多少分，要打一个大大的问号。\n\n说到底，外媒的“最爱”头衔，更多是出于对一款新晋性能猛兽的新鲜感和技术震撼。这有问题吗？没有问题。但对我来说，一款车要成为真正的“好车”，光有亮眼的参数和惊艳的第一印象是远远不够的。它需要经得起时间的考验，需要在日常使用中证明自己的价值。小米SU7 Ultra能不能做到这一点，我觉得还需要市场和用户给出更长期的答案。"
       },
       "sao": "虽然外媒吹得有点过，但SU7 Ultra这数据tm确实牛逼。问题是，车不是光看零百的，底盘和可靠性才是真功夫。小米这波能打几分？还得让时间说话。",
       "eval": {
         "score": 87,
         "grade": "A",
         "passed": true,
-        "feedback": ["Balanced perspective", "Good skepticism"]
+        "feedback": [
+          "Processed successfully"
+        ]
       },
-      "duration": 4.2
+      "duration": 0.0
+    },
+    {
+      "success": true,
+      "original_english": {
+        "title": "[English Title for: 丰田复活LFA竟是纯电超跑，这波情怀牌你买账吗？]",
+        "summary": "",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZmJOQVpxclRoQkNxZ19rbDM5VEtYcnFYcXd1czRTZDk2elBXbGtTdkN6ZGNwRVVYVlltOVhhajVzelJlTmJHTEV2bHRCMTJtTnZLNXFNMm9BTTI0aVZMVUlCTFB0a21GMTVoSXdSRXJDNHNYQnNLU3h6bGU2ckc3WW1FUW44UG5Bd3ZKNkpsX2tLYmJfRU5GSk1rcDZ6b0Z1MVF0aFBOaEg2d0tqTE1VZ3dqY1pwdw?oc=5",
+        "source_name": "Bloomberg.com",
+        "published": "2025-12-06",
+        "brand_name": "Unknown"
+      },
+      "rewrite": {
+        "title": "丰田复活LFA竟是纯电超跑，这波情怀牌你买账吗？",
+        "content": "丰田最近搞了个大新闻，直接把传奇超跑LFA的复活版给端出来了。但让我觉得迷惑的是，这台概念车竟然是一台纯电动车。说实话，看到这个消息，我的第一反应是：LFA是干嘛的？是那个拥有V10天籁之音、被誉为一代神车的LFA啊！现在变成电机驱动，这操作我是真看不懂。\n\n从目前公布的信息看，这台概念车确实有点意思，设计上保留了LFA标志性的比例和线条，但动力总成彻底换血。问题是，对于LFA这样的精神图腾，灵魂到底是那台高转自吸发动机，还是那个经典的造型？丰田这次想用电动技术续写传奇，但竞争力到底还剩多少，要打一个大大的问号。\n\n说到底，电动化是大势所趋，这有问题吗？没有问题。但把LFA这种承载了无数JDM粉丝信仰的车型电动化，我认为是一种非常冒险的尝试。它或许能吸引新世代的科技爱好者，但对于那些听着V10声浪长大的老炮们来说，这恐怕很难打动他们。你觉得，没有灵魂咆哮的LFA，还能叫LFA吗？"
+      },
+      "sao": "虽然LFA的V10声浪确实tm是灵魂，但电动化这波操作，说到底还是得看产品力。东西够硬，情怀自然就值回票价。",
+      "eval": {
+        "score": 84,
+        "grade": "A",
+        "passed": false,
+        "feedback": [
+          "Processed successfully"
+        ]
+      },
+      "duration": 0.0
+    },
+    {
+      "success": true,
+      "original_english": {
+        "title": "[English Title for: 比亚迪海豚销量破百万，但它的竞争力还剩多少？]",
+        "summary": "",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DZ29oUVRpRjhTQWo3aThJdGhSLUk2ZV9yLUducEg5clI2ajlyek1heGxLX3BncjlUVE03OXA1czFVSUw1ZmRIUkZFc3pJSkZFUVNDU0lBdURkT3ZOcnVDc3lNVVFHS01GV3hVMm92OThzZw?oc=5",
+        "source_name": "InsideEVs",
+        "published": "2025-12-06",
+        "brand_name": "Unknown"
+      },
+      "rewrite": {
+        "title": "比亚迪海豚销量破百万，但它的竞争力还剩多少？",
+        "content": "比亚迪海豚全球销量突破100万辆，这速度确实恐怖如斯。作为一款主打城市通勤的A0级小车，海豚能这么快达成这个里程碑，我是真看不懂，但也得承认它确实抓住了入门市场的痛点。\n\n但让我觉得迷惑的是，在如今这个10万级市场卷到飞起的年代，海豚的竞争力到底还剩多少，要打一个大大的问号。相比新出的那些对手，海豚的CLTC续航最高也就420公里，智能化配置也谈不上领先。说到底，它早期的成功，很大程度上是吃了市场空白和比亚迪品牌效应的红利。\n\n问题是，现在同价位能打的选手太多了，个个都号称“海豚杀手”。海豚如果只是吃老本，恐怕很难打动越来越挑剔的年轻消费者。这波百万销量是过去的成绩单，但未来的路怎么走，比亚迪真的想清楚了吗？"
+      },
+      "sao": "虽然海豚销量破百万确实牛逼，但tm现在10万级市场卷成这样，它那420公里续航和智能化配置还够打吗？说到底，吃老本可不行啊xdm。",
+      "eval": {
+        "score": 83,
+        "grade": "A",
+        "passed": false,
+        "feedback": [
+          "Processed successfully"
+        ]
+      },
+      "duration": 0.0
+    },
+    {
+      "success": true,
+      "original_english": {
+        "title": "[English Title for: 比亚迪商用车销量暴涨213%，但光靠补贴能走多远？]",
+        "summary": "",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3NVQUFUdTI2aUVjd19tQnAxQjRtM3p3QzEyTFNJRDZjNGs1anEyRFE4N0JWTUtjMlkyUjV4d3RaakdSYU4zWXBiUS1uNkdsYkZ3MFRlR0xHYlN4enRqc3VpYmY2SzR5eE1BQXI5Q25PX01kc3BOV2ZNWUo3WEpfM3ZRczQ2RnhXSGt1Zko2YVVFd2Mw0gGaAUFVX3lxTE9nTkllTlNGVU9GdG9ERTh5eE0xOUpjT082TzlwSlpyS3dOc0ZiUHZISDRVcmk1elhEZGM1a2pISkdzMHQwenZTTS1uTmVSdkZsZnFJdk9LYWpVUkNBUHVQelBPdUE5OXp3ZURiTWxTbHJhQ19fUzdPTk4tc2RkR2Y2X0ZZdS1rSWZjTE9ncW9feXRWZTRzYjR1NGc?oc=5",
+        "source_name": "CleanTechnica",
+        "published": "2025-12-06",
+        "brand_name": "Unknown"
+      },
+      "rewrite": {
+        "title": "比亚迪商用车销量暴涨213%，但光靠补贴能走多远？",
+        "content": "看到比亚迪商用车销量在2025年暴涨213%的消息，我的第一反应是：这有问题吗？没有问题。毕竟在政策东风和补贴红利下，这个增长数字确实恐怖如斯。但让我觉得迷惑的是，这种爆发式增长，到底有多少是市场真实需求的体现，又有多少是补贴催生的泡沫？\n\n说到底，商用车是干嘛的？是给企业主赚钱的工具。他们看重的不是花里胡哨的配置，而是实打实的全生命周期成本和运营效率。比亚迪在电池和电控上的技术积累，确实让它的产品在能耗和可靠性上有了优势，这是硬实力。但问题是，当补贴退坡、竞争加剧，光靠价格战，竞争力到底还剩多少，要打一个大大的问号。\n\n我认为，比亚迪这波商用车销量起飞，短期看是成功的市场策略，但长期来看，必须建立起不依赖补贴的核心竞争力。比如在充电效率、电池寿命、以及针对不同商用场景（物流、公交、环卫）的定制化解决方案上，能不能持续领先？说到底，商业世界很现实，能帮客户持续降本增效的产品，才是真正的护城河。光有漂亮的销量数字，恐怕还不够。"
+      },
+      "sao": "虽然销量暴涨213%确实tm牛逼，但说到底，商用车是给老板赚钱的工具。光靠补贴能走多远？得看能不能帮客户持续降本增效。",
+      "eval": {
+        "score": 83,
+        "grade": "A",
+        "passed": false,
+        "feedback": [
+          "Processed successfully"
+        ]
+      },
+      "duration": 0.0
+    },
+    {
+      "success": true,
+      "original_english": {
+        "title": "[English Title for: 小鹏Q4营收预警，价格战下竞争力还剩多少？]",
+        "summary": "",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM2NzS1p4TEVGaHY4QUJ5dGJOT21XT1RlN0xHYmVySTFZVDVfbHdhQ2gzRzFVNDNGdjh3M283NjlNV0ZmQ1QzbkxQdzdqVl9lcGFlNVNpaDFfT2hoMUhrYVpiV0c1N3F0Tm9uZzhHeFVfTnJpc3hTeEpTTmhlZ1g0VzIxVFNhYVVMdzBkTm5Kc3JBdzVuc2F0dTBfdDJzcFFvSmJ5UFRWNEZKdjc4NVl3V29yU1hfc040ZjVBclp4bWxYNVRHTXBxN2w5TEo4QktEb3pjcg?oc=5",
+        "source_name": "Reuters",
+        "published": "2025-12-06",
+        "brand_name": "Unknown"
+      },
+      "rewrite": {
+        "title": "小鹏Q4营收预警，价格战下竞争力还剩多少？",
+        "content": "小鹏汽车刚刚发布了最新的财报指引，对第四季度的营收预期相当保守。说实话，看到这个数字，我觉得一点都不意外。现在国内新能源市场卷成什么样了？理想、问界、蔚来，哪个不是卯足了劲在打价格战、拼配置？小鹏的竞争力到底还剩多少，要打一个大大的问号。\n\n财报里说，预计第四季度营收在人民币110亿到120亿之间，这个数字相比去年同期，增长是有的，但问题是，在如今这个你死我活的存量市场里，这点增长够看吗？我是真看不懂，当大家都在疯狂堆料、降价抢份额的时候，小鹏的节奏是不是有点慢了？\n\n说到底，小鹏的核心问题，我认为还是产品线不够清晰。G6、G9、P7i，每款车单拎出来都有亮点，但放在一起，总感觉缺少一个能一锤定音的爆款。智能驾驶这块招牌，现在对手们也追上来了，优势还能保持多久？这有问题吗？没有问题，但压力确实给到了。\n\n当然，财报里也提到毛利率在持续改善，运营效率有提升，这波确实牛。但光靠节流，能撑起一个车企的未来吗？恐怕很难。面对特斯拉的持续降价和比亚迪的全面围剿，小鹏需要的不只是财务上的精打细算，更需要一款能真正点燃市场的现象级产品。你说，下一张牌，他们准备怎么打？"
+      },
+      "sao": "虽然财报里毛利率改善确实tm牛逼，但说到底，产品线模糊才是真问题。智能驾驶优势被追平，光靠节流能撑多久？",
+      "eval": {
+        "score": 83,
+        "grade": "A",
+        "passed": false,
+        "feedback": [
+          "Processed successfully"
+        ]
+      },
+      "duration": 0.0
+    },
+    {
+      "success": true,
+      "original_english": {
+        "title": "[English Title for: 现代IONIQ 5月租189美元？这价格背后到底藏着什么]",
+        "summary": "",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM2Fsd1ZSekR5S1FvRzg2ZFEyc2QxTlZ0NWtuanY5Yjh6RVZKTndtQmkwWHVEZTRmdlF4UklRUTlFSTBZS0llMGFNMmpjRzhmamxWWHZDV3J0cThBc184THZETWpTamtOUE5ieVI1NjR6OWZaeUVsTUdySV9KNTk2MTl5ZnFTek1JZDVKbERKZkE?oc=5",
+        "source_name": "Electrek",
+        "published": "2025-12-06",
+        "brand_name": "Unknown"
+      },
+      "rewrite": {
+        "title": "现代IONIQ 5月租189美元？这价格背后到底藏着什么",
+        "content": "现代最近搞了个大新闻，IONIQ 5的租赁价居然只要每月189美元（约合人民币1360元）。说实话，看到这个价格，我的第一反应是：这有问题吗？没有问题，但问题是，这真的能代表这辆车的真实价值吗？\n\n要知道，IONIQ 5作为现代E-GMP纯电平台的首款力作，无论是800V高压快充、超过480公里的续航，还是那个极具未来感的设计，在海外市场口碑一直不错。现在用这么低的月租放出来，现代是干嘛的？是来搅动美国电动车租赁市场的。这波操作，意图很明显，就是想用价格优势快速抢占份额。\n\n但让我觉得迷惑的是，这种超低月租背后，往往捆绑着高额的首付、严格的里程限制，以及租赁到期后复杂的残值处理。说到底，羊毛出在羊身上。厂商和经销商不是慈善家，他们敢这么玩，要么是对未来残值极度自信，要么就是有别的算盘。消费者觉得捡了便宜，但长期来看，这真的划算吗？要打一个大大的问号。\n\n我认为，对于想尝鲜电动车的朋友，这确实是个低成本体验的好机会。但如果你问我这是不是一笔精明的财务决策，我的答案是：别只看月供那点数字，把总拥有成本算清楚再说。现代这波营销很猛，但咱们消费者，心里得有自己的账本。"
+      },
+      "sao": "虽然这月租tm低得离谱，但说到底，羊毛出在羊身上。现代这波营销确实牛逼，但xdm，别光看月供，把总账算清楚再冲。",
+      "eval": {
+        "score": 79,
+        "grade": "B+",
+        "passed": false,
+        "feedback": [
+          "Processed successfully"
+        ]
+      },
+      "duration": 0.0
+    },
+    {
+      "success": true,
+      "original_english": {
+        "title": "[English Title for: 比亚迪南非狂飙：2026年再开新店，这波出海能成吗？]",
+        "summary": "",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQUhLSUlMM1lyWGxPenVjVl9YVVVGcVg2bjBacWRDWDk0VGxwVUMwUUVNRXVpZ3FlUnpWeFl5YlJVNk5nclpTWktKX0JqLXR1Z1NvM0Y2cWZ2eENudU9PeDV5SGJVMUVYTU5vNURWblpuVU02UEp3ZXkyUlo2TFdQeGFrVTd5cS1lTS1Fb1JTb3V6VjMtUkhsdS02Z2Y1M09HVHlHQUtGcFprYjViS1lsbkpPaUsxNkpsNlhMY3ItanVNMVpqUXYw?oc=5",
+        "source_name": "Reuters",
+        "published": "2025-12-06",
+        "brand_name": "Unknown"
+      },
+      "rewrite": {
+        "title": "比亚迪南非狂飙：2026年再开新店，这波出海能成吗？",
+        "content": "看到比亚迪要在南非继续开新店的消息，我的第一反应是：这扩张速度，确实有点恐怖如斯。根据路透社的报道，比亚迪计划在2026年进一步扩大在南非的经销商网络。这有问题吗？从商业角度看，没有问题。毕竟，南非作为非洲大陆最成熟的汽车市场之一，对任何想全球化的品牌来说，都是一块必须啃下的硬骨头。\n\n但让我觉得迷惑的是，比亚迪的海外战略，步子是不是迈得太快了？从欧洲到东南亚，再到现在的非洲，遍地开花。这操作我是真看不懂，或者说，我对这种全面铺开的打法，要打一个大大的问号。每个市场的消费习惯、基础设施、政策法规都天差地别，用一套打法去征服全世界，恐怕很难。说到底，全球化不是简单的开店竞赛。\n\n当然，我承认比亚迪的产品力在国内市场已经得到了验证，尤其是电动车这块。但问题是，南非的充电网络普及率、消费者对纯电车型的接受度，能和国内比吗？如果基础设施跟不上，光有车和店，竞争力到底还剩多少？这需要打一个大大的问号。我认为，出海成功的关键，不在于你开了多少家店，而在于你的产品和服务，能不能真正融入当地。\n\n说到底，比亚迪这波加速，野心是肉眼可见的。但海外市场的水，远比想象的要深。2026年的新店计划，是锦上添花，还是盲目扩张？时间会给我们答案。但在这之前，我觉得我们还是得保持一份冷静的观察。"
+      },
+      "sao": "虽然这扩张速度确实tm恐怖如斯，但遍地开花的打法真能行吗？说到底，出海不是开店竞赛，得看产品能不能真正融入当地。",
+      "eval": {
+        "score": 75,
+        "grade": "B+",
+        "passed": false,
+        "feedback": [
+          "Processed successfully"
+        ]
+      },
+      "duration": 0.0
+    },
+    {
+      "success": true,
+      "original_english": {
+        "title": "[English Title for: 特斯拉英国11月销量下滑，Model Y不香了？]",
+        "summary": "",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeXJ5SkpwenFRVWp3MW5fYldMc0gxQUtBbFhjWTdpQlk5NUdpekF1a2xDdVd1d1RleUk2LVpqNm1QdDBDRWFscjZiMjZ3UVV6RVFWRnljcTYwOTE2TmZBQ2NiQ1N0VTFvNlhDc21FcXJ1WjkzWW9sQXBQZzViWHhKdEFVb0FzSEUwQzJYNFVkbktkOG5KT2dYVEVDbFhJVE9uejBjM1F0cHY3dXE5LWtGMndoTkFGWXFsOVRQWXVDRXZMVVU?oc=5",
+        "source_name": "Reuters",
+        "published": "2025-12-06",
+        "brand_name": "Unknown"
+      },
+      "rewrite": {
+        "title": "特斯拉英国11月销量下滑，Model Y不香了？",
+        "content": "最新数据显示，特斯拉在英国11月份的汽车销量出现了下滑。这消息一出，我觉得有点意思。要知道，特斯拉在全球市场，尤其是欧洲，一直是电动车的标杆。但这次在英国市场遇冷，到底是怎么回事？\n\n我的第一反应是，这跟Model Y的改款节奏有关系吗？新款Model Y（代号Juniper）虽然发布了，但大规模交付可能还没跟上。消费者都在等新款，老款自然就卖不动了。这有问题吗？没有问题，这是产品周期里的正常现象。\n\n但让我觉得迷惑的是，英国市场的电动车补贴政策是不是也在收紧？如果购车成本变高了，那对特斯拉这种定位偏高的品牌来说，冲击肯定更大。说到底，当经济环境不那么乐观的时候，消费者对价格会变得异常敏感。特斯拉的竞争力到底还剩多少，要打一个大大的问号。\n\n当然，单月数据下滑不能说明一切，可能只是短期波动。但问题是，如果这背后反映的是市场需求疲软或者竞争加剧，那对特斯拉来说就不是个好消息了。我是真看不懂，在电动车渗透率还在爬坡的阶段，头部品牌出现销量下滑，这信号有点微妙。"
+      },
+      "sao": "虽然单月数据下滑不能说明一切，但这tm信号确实有点微妙。说到底，当经济环境不给力的时候，特斯拉这种偏高的定位，消费者是真得掂量掂量。",
+      "eval": {
+        "score": 63,
+        "grade": "B",
+        "passed": false,
+        "feedback": [
+          "Processed successfully"
+        ]
+      },
+      "duration": 0.0
     }
   ]
 }
