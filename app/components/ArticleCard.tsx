@@ -45,10 +45,10 @@ export function ArticleCard({ article, index }: ArticleCardProps) {
       <div className="relative overflow-hidden rounded-3xl bg-white p-8 shadow-lg ring-1 ring-gray-200 hover:shadow-2xl transition-all duration-500">
 
         {/* Gradient Border Effect */}
-        <div className={`absolute inset-0 bg-gradient-to-br ${scoreColor.from} ${scoreColor.to} opacity-0 group-hover:opacity-5 transition-opacity duration-500`} />
+        <div className={`absolute inset-0 bg-gradient-to-br ${scoreColor.from} ${scoreColor.to} opacity-0 group-hover:opacity-5 transition-opacity duration-500 pointer-events-none`} />
 
         {/* Top Border Accent */}
-        <div className={`absolute top-0 left-0 right-0 h-1 bg-gradient-to-r ${scoreColor.from} ${scoreColor.to}`} />
+        <div className={`absolute top-0 left-0 right-0 h-1 bg-gradient-to-r ${scoreColor.from} ${scoreColor.to} pointer-events-none`} />
 
         {/* Header */}
         <div className="relative flex items-start justify-between gap-4 mb-6">
