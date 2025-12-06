@@ -176,7 +176,7 @@ export function ArticleCard({ article, index }: ArticleCardProps) {
               <div className="text-sm font-bold text-amber-900 mb-2">
                 💬 达式评语 (DADA Commentary)
               </div>
-              <p className="text-sm text-amber-800 italic leading-relaxed">
+              <p className="text-sm text-amber-800 leading-relaxed">
                 {sao}
               </p>
             </div>
